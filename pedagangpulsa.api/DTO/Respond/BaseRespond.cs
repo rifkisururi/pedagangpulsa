@@ -2,7 +2,7 @@
 {
     public class BaseRespond
     {
-        public bool status { get; set; } = false;
+        public bool Status { get; set; } = false;
         public string Message { get; set; }
     }
 }

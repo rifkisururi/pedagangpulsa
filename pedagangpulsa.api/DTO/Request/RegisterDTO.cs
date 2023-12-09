@@ -5,7 +5,7 @@
         public string Owner { get; set; }
         public string Nama { get; set; }
         public string Alamat { get; set; }
-        public string? WA { get; set; }
+        public string? PhoneNumber { get; set; }
         public string? Email { get; set; }
         public string? Telegram { get; set; }
         public string? IpAddress { get; set; }

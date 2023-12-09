@@ -21,6 +21,6 @@ namespace pedagangpulsa.api.Domain.Entities
         public string Password { get; set; }
         public int saldo { get; set; } = 0;
         public bool isActive { get; set; } = true;
-        public bool isVerived { get; set; } = false;
+        public bool isVerified { get; set; } = false;
     }
 }
